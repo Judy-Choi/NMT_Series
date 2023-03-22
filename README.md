@@ -10,7 +10,10 @@ https://www.facebook.com/groups/geultto/?locale=ko_KR
 
 ## PCF (Parallel Corpus Filtering)
 https://velog.io/@judy_choi
-- Bleualign
+- BLEU
+  - SacreBLEU
 - LASER
   - LASER + Cosine similarity
-# NMT_Series
+  
+## Align
+- BLEUAlign
