@@ -9,7 +9,7 @@ https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516
 https://www.facebook.com/groups/geultto/?locale=ko_KR
 
 ## PCF (Parallel Corpus Filtering)
-https://velog.io/@judy_choi
+https://velog.io/@judy_choi/글또-NMT-시리즈-22-Dataset-for-NMT-PCF
 - BLEU
   - SacreBLEU
 - LASER
