@@ -18,6 +18,7 @@ https://velog.io/@judy_choi/글또-NMT-시리즈-22-Dataset-for-NMT-PCF
 ## Align
 - BLEUAlign
 - VecAlign
+- FAISS
 
 ## Model
 - OpenNMT
