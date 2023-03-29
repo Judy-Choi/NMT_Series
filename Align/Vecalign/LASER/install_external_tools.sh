@@ -14,7 +14,6 @@
 #
 # This bash script installs third party software 
 #
-export LASER="/Users/judy/Documents/__NLP__/NMT_Series/Align/Vecalign/LASER"
 
 if [ -z ${LASER} ] ; then 
   echo "Please set the environment variable 'LASER'"
