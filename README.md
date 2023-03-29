@@ -16,6 +16,7 @@ https://velog.io/@judy_choi/글또-NMT-시리즈-22-Dataset-for-NMT-PCF
   - LASER + Cosine similarity
   
 ## Align
+https://velog.io/@judy_choi/글또-NMT-시리즈-Dataset-for-NMT-Sentence-Alignment
 - BLEUAlign
 - VecAlign
 - FAISS
