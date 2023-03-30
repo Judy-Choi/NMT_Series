@@ -1,10 +1,10 @@
-# 글또 (Geultto) - NMT Series
+# 📝 글또 (Geultto) - NMT Series
 글또 8기 NMT 시리즈 코드 모음   
 A collection of codes in a NMT series of Geultto 8th
 
 https://velog.io/@judy_choi
 
-## What is 'Geultto'?
+## 🧐 What is 'Geultto'?
 '글'쓰는 '또'라이 : 글 쓰는 또라이가 세상을 바꾼다   
 One of Korea's big developer groups   
 https://www.notion.so/zzsza/ac5b18a482fb4df497d4e8257ad4d516   
