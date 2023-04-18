@@ -24,5 +24,6 @@ https://velog.io/@judy_choi/글또-NMT-시리즈-Dataset-for-NMT-Sentence-Alignm
 - FAISS
 
 ## Model
+https://velog.io/@judy_choi/글또-NMT-시리즈-Model-Training-OpenNMT-Fairseq
 - OpenNMT
 - FairSeq
