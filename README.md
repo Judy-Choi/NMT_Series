@@ -30,6 +30,8 @@ https://velog.io/@judy_choi/글또-NMT-시리즈-Model-Training-OpenNMT-Fairseq
 
 ## Presentation
 ### Beyond the {&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} barrier 🧗🏻‍♀️
+[Download PT](https://github.com/Judy-Choi/NMT_Series/tree/main/Presentation)
+
 글또 데이터 빌리지 통합 반상회  
 Geultto data village seminar  
 - 📅 When : Thu 22 June ( 19h ~ 22:30h )  
